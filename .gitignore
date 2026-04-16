@@ -9,7 +9,6 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-.env
 *.local
 
 
@@ -18,3 +17,4 @@ web-build/
 
 # wakatime
 .wakatime-project
+config.bat
